@@ -811,7 +811,3 @@ generate_final_summary_report
 - **Dont use cells** : Avoid using cells that are known to cause errors
 - **Manual verification** : For designs with lower number of DRC errors, the can be corrected with the methods discussed in chapter 3
 
-
-### Workshop Certificate
-
-![Certificate](Resources/VSD_IAT_PV.png)
